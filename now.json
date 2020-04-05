@@ -1,6 +1,6 @@
 {
   "version": 2,
   "routes": [
-      {"src": "/(.*)","dest": "https://file.fugon.cn/$1"}
+      {"src": "/(.*)","dest": "http://file.fugon.cn/$1"}
   ]
 }
