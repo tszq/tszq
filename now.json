@@ -1,6 +1,6 @@
 {
   "version": 2,
   "routes": [
-      {"src": "/(.*)","dest": "https://fugon.evai.pl/$1"}
+      {"src": "/(.*)","dest": "https://gj.fugon.cn/$1"}
   ]
 }
