@@ -1,6 +1,6 @@
 {
   "version": 2,
   "routes": [
-      {"src": "/(.*)","dest": "https://www.cdgfss.edu.hk/$1"}
+      {"src": "/(.*)","dest": "http://www.cdgfss.edu.hk/$1"}
   ]
 }
